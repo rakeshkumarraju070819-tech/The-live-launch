@@ -6,10 +6,10 @@ A production-ready RESTful API for a blogging platform, deployed on Render cloud
 
 **Production URL**: `https://blogify-api-yourname.onrender.com`
 
-## 📋 Features
+## 📋 Features 
 
 - Express.js REST API
-- MongoDB Atlas database integration
+- MongoDB Atlas databasee integration
 - JWT Authentication
 - Environment-based configuration
 - Production-ready deployment on Render
