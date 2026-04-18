@@ -9,7 +9,7 @@ A production-ready RESTful API for a blogging platform, deployed on Render cloud
 ## 📋 Features 
 
 - Express.js REST API
-- MongoDB Atlas databasee integration
+- MongoDB Atlas databaseee integration
 - JWT Authentication
 - Environment-based configuration
 - Production-ready deployment on Render
